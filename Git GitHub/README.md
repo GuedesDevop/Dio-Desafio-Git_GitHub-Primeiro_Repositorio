@@ -11,7 +11,7 @@ A trilha de Desenvolvedor Fullstack proposta pelo Santander Bootcamp aborda os s
   - [x] Introdução ao Git e ao GitHub
   - [x] Criando seu Primeiro Repositório Para Compartilhar Seu Progresso
 - [ ] **Módulo II - HTML5/CSS3/JS**
-  - [ ] Introdução a criação de websites com HTML5 e CSS3
+  - [x] Introdução a criação de websites com HTML5 e CSS3
   - [ ] Posicionando Elementos com Flexbox e CSS
   - [ ] Recriando a pagina inicial do Instagram
   - [ ] Introdução ao JavaScript
