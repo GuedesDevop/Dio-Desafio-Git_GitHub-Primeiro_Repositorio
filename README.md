@@ -2,7 +2,7 @@
 
 
 
-A trilha de Desenvolvedor Fullstack proposta pelo Santander Bootcamp aborda os seguintes tópicos:
+A trilha de Desenvolvedor Fullstack proposta pelo Santander Bootcamp em parceria com a plataforma DIO aborda os seguintes tópicos:
 
 
 
