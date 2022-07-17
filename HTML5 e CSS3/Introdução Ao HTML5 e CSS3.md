@@ -1,2 +1,19 @@
 # Conteúdo adquirido no curso de Introdução ao HTML5 e CSS3
 
+- ## HTML5;
+    - ### Definição de HTML;
+    - ### Definição de TAGs (abertura e fechamento);
+        - DOCTYPE, Head, Body, meta;
+    - ### Conceitos de Semântica;
+        -Section, Header, Article, Aside, Footer & H1 até H6;
+        - Apenas 1 H1 por página;
+    - ### Principais TAGs
+        - Elemtentos de texto TAG </p>;
+        - Elementos de Links TAG </a>;
+            - href & target
+        - Elementos de Imagem TAG <img>;
+            - Atributos src e alt
+    - ### Listas
+        - UL, OL, LI;
+- ## CSS3
+
