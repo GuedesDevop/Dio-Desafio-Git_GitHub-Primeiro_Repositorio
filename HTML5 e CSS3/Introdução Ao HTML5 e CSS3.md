@@ -30,7 +30,7 @@
         - text-transform
         - text-decoration
     - ### Personalização de listas
-            - list-style-type
+        - list-style-type
     - ### Dimensão e Alinhamento
         - width
         - height
