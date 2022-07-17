@@ -38,4 +38,3 @@
             - max-height
             - margin
             - text-align
-            
