@@ -29,13 +29,12 @@
         - font-weight
         - text-transform
         - text-decoration
-        - ### Personalização de listas
+    - ### Personalização de listas
             - list-style-type
-        - ### Dimensão e Alinhamento
-            - width
-            - height
-            - max-weight
-            - max-height
-            - margin
-            - text-align
-            
+    - ### Dimensão e Alinhamento
+        - width
+        - height
+        - max-weight
+        - max-height
+        - margin
+        - text-align
