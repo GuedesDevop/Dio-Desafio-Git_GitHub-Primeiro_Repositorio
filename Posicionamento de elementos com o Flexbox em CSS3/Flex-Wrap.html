@@ -4,18 +4,21 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fundamento - Flex Wrap</title>
+    <title>Fundamentos - Flex Wrap</title>
     <style>
         .flex-container{
+            padding: 20px;
+            margin: 10px;
             display: flex;
-            height: 150px;
-            border: 1px solid black;
+            flex-direction: column;
+            height: 200px;            
+            border: 2px solid black;
             max-width: 300px;
         }
         .item{
-            font-size: 24px;
+            font-size: 36px;
             height: 50%;
-            text-align: center;
+            text-align:center;
             min-width: 100px;
             line-height: 50px;
         }
@@ -44,7 +47,7 @@
     </style>
 </head>
 <body>
-    <h1>No Wrap</h1>
+    <h1 >No Wrap</h1>
     <div class="flex-container nowrap">
         <div class="item blue">1</div>
         <div class="item green">2</div>
@@ -67,7 +70,5 @@
         <div class="item orange">3</div>
         <div class="item violet">4</div>
     </div>    
-
-
 </body>
 </html>
