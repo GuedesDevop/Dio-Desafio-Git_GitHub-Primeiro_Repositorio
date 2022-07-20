@@ -21,3 +21,10 @@
         - start
         - end
         - baseline
+    - ### Align Content
+        - center
+        - stretch
+        - flex start
+        - flex end
+        - space between
+        - space around
