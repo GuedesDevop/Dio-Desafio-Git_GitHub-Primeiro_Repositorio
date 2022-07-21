@@ -93,6 +93,7 @@ body {
 
 .not-account {
     color: rgb(160, 160, 160);
+    text-align: center;
 }
 
 .link-blue {
@@ -109,7 +110,6 @@ body {
     justify-content: center;
     width: 100%;
     padding: 1.3rem 0;
-
 }
 
 .download {
@@ -144,7 +144,6 @@ body {
     body {
         background-color: #ffffff;
     }
-
 
     .instagram-wrapper {
         width: 90%;
