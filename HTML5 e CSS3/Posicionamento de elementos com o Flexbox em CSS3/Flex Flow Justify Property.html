@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fundamntos - Flex Flow / Justify Content</title>
+    <style>
+        .container {
+        background-color: cornflowerblue;
+        max-width: 400px;
+        border: 1px solid black;
+        border-radius: 5px;
+        margin: 30px;
+        display: flex;
+        text-align: center;
+        height: 50%;
+        
+        }
+        .item {
+        font-size: 20px;
+        font-style: italic;
+        background-color: lightpink;
+        height: 30px;
+        margin: 5px;
+        text-align:center;
+        color: black
+        }
+
+        .column {
+            flex-direction: column;
+            min-height: 500px;
+            width: 300px;
+        }
+
+        .h1 { 
+        max-width: 400px;
+        font-size: 40px; 
+        font-style: oblique;
+        text-align: center;
+        color: crimson;
+        }
+
+        
+        .flex-start {
+            justify-content: flex-start;
+        }
+
+        .flex-end {
+            justify-content: flex-end;
+        }
+
+        .flex-center {
+            justify-content: center;
+        }
+
+        .flex-space-between {
+            justify-content: space-between;
+        }
+
+        .flex-space-around {
+            justify-content: space-around;
+        }
+        
+
+    </style>
+</head>
+<body>
+
+
+    <h1 class="h1">ROW</h1>
+    <h2>Flex Start</h2>
+    <section class="container flex-start">
+        <div class="item">1</div>
+        <div class="item">item 2</div>
+        <div class="item">outro item</div>
+        <div class="item">mais um item</div>
+    </section>
+    
+    <h2>Flex End</h2>    
+    <section class="container flex-end">
+        <div class="item">1</div>
+        <div class="item">item 2</div>
+        <div class="item">outro item</div>
+        <div class="item">mais um item</div>
+    </section>
+
+    <h2>Flex Center</h2>    
+    <section class="container flex-center">
+        <div class="item">1</div>
+        <div class="item">item 2</div>
+        <div class="item">outro item</div>
+        <div class="item">mais um item</div>
+    </section>
+
+
+    <h2>Flex Space Between</h2>    
+    <section class="container flex-space-between">
+        <div class="item">1</div>
+        <div class="item">item 2</div>
+        <div class="item">outro item</div>
+        <div class="item">mais um item</div>
+    </section>
+
+
+    <h2>Flex Space Aroud</h2>    
+    <section class="container flex-space-around">
+        <div class="item">1</div>
+        <div class="item">item 2</div>
+        <div class="item">outro item</div>
+        <div class="item">mais um item</div>
+    </section>
+
+    <h1 class="h1">COLUMN</h1>
+    <h2>Flex Start (Column)</h2>
+    <section class="container flex-start column">
+        <div class="item">1</div>
+        <div class="item">item 2</div>
+        <div class="item">outro item</div>
+        <div class="item">mais um item</div>
+    </section>
+    
+    <h2>Flex End (Column)</h2>    
+    <section class="container flex-end column">
+        <div class="item">1</div>
+        <div class="item">item 2</div>
+        <div class="item">outro item</div>
+        <div class="item">mais um item</div>
+    </section>
+
+    <h2>Flex Center (Column)</h2>    
+    <section class="container flex-center column">
+        <div class="item">1</div>
+        <div class="item">item 2</div>
+        <div class="item">outro item</div>
+        <div class="item">mais um item</div>
+        <div class="item">chega de itens</div>
+    </section>
+
+    <h2>Flex Space Between (Column)</h2>    
+    <section class="container flex-space-between column">
+        <div class="item">1</div>
+        <div class="item">item 2</div>
+        <div class="item">outro item</div>
+        <div class="item">mais um item</div>
+        <div class="item">chega de itens</div>
+        <div class="item">um caralho de mundo de itens</div>
+    </section>
+
+
+    <h2>Flex Space Aroud (Column)</h2>    
+    <section class="container flex-space-around column">
+        <div class="item">1</div>
+        <div class="item">item 2</div>
+        <div class="item">outro item</div>
+        <div class="item">mais um item</div>
+        <div class="item">chega de itens</div>
+        <div class="item">um caralho de mundo de itens</div>        
+        <div class="item">encheu o saco já</div>        
+    </section>
+
+</body>
+</html>
