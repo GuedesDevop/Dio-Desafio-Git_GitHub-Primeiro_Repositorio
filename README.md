@@ -12,11 +12,11 @@ A trilha de Desenvolvedor Fullstack proposta pelo Santander Bootcamp em parceria
   - [x] Desafio de Projeto - Criando seu Primeiro Repositório Para Compartilhar Seu Progresso
 - [ ] **Módulo II - HTML5/CSS3/JS**
   - [x] Introdução a criação de websites com HTML5 e CSS3
-  - [ ] Posicionando Elementos com Flexbox e CSS
-  - [ ] Desafio de Projeto - Recriando a pagina inicial do Instagram
-  - [ ] Introdução ao JavaScript
-  - [ ] Sintaxe e Operadores
-  - [ ] Variáveis e Tipos
+  - [x] Posicionando Elementos com Flexbox e CSS
+  - [x] Desafio de Projeto - Recriando a pagina inicial do Instagram
+  - [x] Introdução ao JavaScript
+  - [x] Sintaxe e Operadores
+  - [x] Variáveis e Tipos
   - [ ] Funções
   - [ ] Coleções
   - [ ] Map, Filter e Reduce
